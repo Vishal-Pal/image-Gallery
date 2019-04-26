@@ -35,15 +35,3 @@ body
 	line-height: 45px;
    	text-align: center;
 }
-#pic{
-	height: 225px;
-	width: 65%;
-}
-#pic-con{
-	background: #355C7D;  /* fallback for old browsers */
-	background: -webkit-linear-gradient(to left, #C06C84, #6C5B7B, #355C7D);  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to left, #C06C84, #6C5B7B, #355C7D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-	margin-left: 37%;
-	margin-right: 35%;
-	width: 25%; 
-}
